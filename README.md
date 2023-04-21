@@ -1,1 +1,1 @@
-A small todolist with firebase
+A small todolist with firebase and tailwind
